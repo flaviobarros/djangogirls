@@ -1,1 +1,1 @@
-web: gunicorn flaviodjangoblog.wsgi
+web: gunicorn djangogirls.wsgi
