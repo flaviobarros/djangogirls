@@ -1,8 +1,8 @@
-€}q(Udjangogirls.urls]qUurlpatternsqaUmanage]Ublog.migrations.0001_initial]qU	MigrationqaUdjangogirls]Ublog.migrations]Ublog.models]qUPostqaU
-blog.admin]Udatetime]q(U	timedeltaq	UMAXYEARq
-UdateqUdatetime_CAPIqUtzinfoqUtimeqUMINYEARqUdatetimeqeUblog]Udjangogirls.local_settings]q(UDEBUGqU	DATABASESqUBASE_DIRqeUdjangogirls.settings]q(UUSE_L10NqUSTATIC_ROOTqULANGUAGE_CODEqUUSE_TZqUUSE_I18NqhU	TIME_ZONEqU
-STATIC_URLqUSECURE_PROXY_SSL_HEADERqUROOT_URLCONFqUTEMPLATE_DEBUGqUWSGI_APPLICATIONq UMIDDLEWARE_CLASSESq!hUALLOWED_HOSTSq"U
-SECRET_KEYq#UINSTALLED_APPSq$heUdjangogirls.wsgi]q%Uapplicationq&aU
-blog.tests]Ushutil]q'(Ucopyfileq(Uignore_patternsq)Ucopytreeq*Uget_archive_formatsq+Ucopyfileobjq,Uregister_archive_formatq-Ucopymodeq.Umake_archiveq/Umoveq0Uunregister_archive_formatq1Urmtreeq2UErrorq3Ucopyq4U	ExecErrorq5Ucopy2q6USpecialFileErrorq7Ucopystatq8UWindowsErrorq9eUos]q:(Upopen4q;Uexecleq<Upopen3q=USEEK_CURq>Uspawnlpq?Uexeclpq@UenvironqAUspawnvpqBUspawnlqCUexecvpqDUmakedirsqEUlinesepqFUP_WAITqGUspawnvqHUspawnveqIUexecvpeqJUunsetenvqKUSEEK_SETqLUgetenvqMUpopen2qNUwalkqOUspawnleqPUexeclqQUnameqRUSEEK_ENDqSUspawnlpeqTU	P_NOWAITOqUUP_NOWAITqVU
-removedirsqWUrenamesqXUspawnvpeqYUexeclpeqZeU
-blog.views]u.
+€}q(Ushutil]q(UcopyfileqUignore_patternsqUcopytreeqUget_archive_formatsqUcopyfileobjqUregister_archive_formatqUcopymodeq	Umake_archiveq
+UmoveqUunregister_archive_formatqUrmtreeqUErrorqUcopyqU	ExecErrorqUcopy2qUSpecialFileErrorqUcopystatqUWindowsErrorqeUdjangogirls.urls]qUurlpatternsqaUmanage]Ublog.migrations.0001_initial]qU	MigrationqaUdjangogirls]U'blog.migrations.0002_auto_20150405_1903]qhaUblog.migrations]Ublog.models]qUPostqaU	blog.urls]qhaU
+blog.admin]Ublog]Udjangogirls.local_settings]q(UDEBUGqU	DATABASESqUBASE_DIRq eUdjangogirls.settings]q!(UUSE_L10Nq"USTATIC_ROOTq#ULANGUAGE_CODEq$UUSE_TZq%UUSE_I18Nq&hU	TIME_ZONEq'U
+STATIC_URLq(USECURE_PROXY_SSL_HEADERq)UROOT_URLCONFq*UTEMPLATE_DEBUGq+UWSGI_APPLICATIONq,UMIDDLEWARE_CLASSESq-hUALLOWED_HOSTSq.U
+SECRET_KEYq/UINSTALLED_APPSq0h eUdjangogirls.wsgi]q1Uapplicationq2aU
+blog.tests]Udatetime]q3(U	timedeltaq4UMAXYEARq5Udateq6Udatetime_CAPIq7Utzinfoq8Utimeq9UMINYEARq:Udatetimeq;eUos]q<(Upopen4q=Uexecleq>Upopen3q?USEEK_CURq@UspawnlpqAUexeclpqBUenvironqCUspawnvpqDUspawnlqEUexecvpqFUmakedirsqGUlinesepqHUP_WAITqIUspawnvqJUspawnveqKUexecvpeqLUunsetenvqMUSEEK_SETqNUgetenvqOUpopen2qPUwalkqQUspawnleqRUexeclqSUnameqTUSEEK_ENDqUUspawnlpeqVU	P_NOWAITOqWUP_NOWAITqXU
+removedirsqYUrenamesqZUspawnvpeq[Uexeclpeq\eU
+blog.views]q]U	post_listq^au.
