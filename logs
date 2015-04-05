@@ -1,0 +1,101 @@
+2015-04-02T19:53:28.899664+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=9ae0cb8f-16f1-4223-a694-3587cffaadbd fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:53:32.784872+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=4e4f9283-4069-46f0-ad0f-0a425aab7fbc fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:53:33.506643+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=7f32efe7-f1e1-48c9-8bea-287da3eac13c fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:53:37.263875+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=c9cc1597-4796-4a83-a616-f34239b0a756 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:53:39.347993+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=47080bab-1db1-4dcb-ae4c-3faf36710279 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:53:40.076213+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=d5baaa13-08c3-41bf-ad56-b5b8314ccb0d fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:53:38.040216+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=2d1f54ea-09ff-44bd-b0c0-27e00dad5e62 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:54:33.827952+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=aaa91891-66bf-4829-b44d-dc33be8a0e3b fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:54:35.685754+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=73e140f3-b298-4a18-97a0-fc5545c5c6f4 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:54:36.392186+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=8a7eb72a-d333-4da6-aa57-a3eb8b8b307b fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T19:54:32.936974+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=1a9ccfa1-0a68-47c6-a8f6-c1a8744c2997 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:00:09.326884+00:00 heroku[api]: Deploy 5415ef4 by flaviomargarito@gmail.com
+2015-04-02T20:00:09.326884+00:00 heroku[api]: Release v7 created by flaviomargarito@gmail.com
+2015-04-02T20:00:09.472914+00:00 heroku[web.1]: State changed from crashed to starting
+2015-04-02T20:00:17.996729+00:00 heroku[web.1]: Starting process with command `gunicorn flaviodjangoblog.wsgi`
+2015-04-02T20:00:20.512406+00:00 app[web.1]: bash: gunicorn: command not found
+2015-04-02T20:00:22.162848+00:00 heroku[web.1]: Process exited with status 127
+2015-04-02T20:00:22.186447+00:00 heroku[web.1]: State changed from crashed to starting
+2015-04-02T20:00:22.185681+00:00 heroku[web.1]: State changed from starting to crashed
+2015-04-02T20:00:29.403411+00:00 heroku[web.1]: Starting process with command `gunicorn flaviodjangoblog.wsgi`
+2015-04-02T20:00:31.651809+00:00 app[web.1]: bash: gunicorn: command not found
+2015-04-02T20:00:32.468733+00:00 heroku[web.1]: State changed from starting to crashed
+2015-04-02T20:00:32.449625+00:00 heroku[web.1]: Process exited with status 127
+2015-04-02T20:00:33.919946+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=b6cb17f6-b54f-4329-a764-80b29e5b9849 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:00:34.796292+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=79992119-67c6-46e8-b3a9-5ce8612384ab fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:00:39.062186+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=93ee6a3b-a74d-42da-91b7-de4d77ffe09d fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:00:39.808411+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=0b4c7048-c13a-4eff-ae6f-1c6e8d29c098 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:00:53.222821+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=e4f5bc8f-5346-4526-99ac-038462fa9663 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:00:53.943158+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=5ef65f7f-22e3-4314-bb09-1bded0539efe fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:06:44.859743+00:00 heroku[api]: Deploy 0e2bba6 by flaviomargarito@gmail.com
+2015-04-02T20:06:44.859743+00:00 heroku[api]: Release v8 created by flaviomargarito@gmail.com
+2015-04-02T20:06:45.199231+00:00 heroku[web.1]: State changed from crashed to starting
+2015-04-02T20:06:50.643102+00:00 heroku[web.1]: Starting process with command `gunicorn flaviodjangoblog.wsgi`
+2015-04-02T20:06:52.788596+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+2015-04-02T20:06:52.788590+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/arbiter.py", line 507, in spawn_worker
+2015-04-02T20:06:52.788581+00:00 app[web.1]: [2015-04-02 20:06:52 +0000] [9] [ERROR] Exception in worker process:
+2015-04-02T20:06:52.788593+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/workers/base.py", line 118, in init_process
+2015-04-02T20:06:52.788598+00:00 app[web.1]:     self.callable = self.load()
+2015-04-02T20:06:52.788587+00:00 app[web.1]: Traceback (most recent call last):
+2015-04-02T20:06:52.788595+00:00 app[web.1]:     self.wsgi = self.app.wsgi()
+2015-04-02T20:06:52.760695+00:00 app[web.1]: [2015-04-02 20:06:52 +0000] [3] [INFO] Starting gunicorn 19.3.0
+2015-04-02T20:06:52.788591+00:00 app[web.1]:     worker.init_process()
+2015-04-02T20:06:52.788610+00:00 app[web.1]: Traceback (most recent call last):
+2015-04-02T20:06:52.788601+00:00 app[web.1]:     return self.load_wsgiapp()
+2015-04-02T20:06:52.788604+00:00 app[web.1]:     return util.import_app(self.app_uri)
+2015-04-02T20:06:52.788606+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/util.py", line 355, in import_app
+2015-04-02T20:06:52.788613+00:00 app[web.1]:     worker.init_process()
+2015-04-02T20:06:52.788603+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+2015-04-02T20:06:52.788627+00:00 app[web.1]:     __import__(module)
+2015-04-02T20:06:52.836445+00:00 app[web.1]:   File "/app/.heroku/python/bin/gunicorn", line 11, in <module>
+2015-04-02T20:06:52.836748+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/base.py", line 189, in run
+2015-04-02T20:06:52.788625+00:00 app[web.1]:     return util.import_app(self.app_uri)
+2015-04-02T20:06:52.762237+00:00 app[web.1]: [2015-04-02 20:06:52 +0000] [3] [INFO] Listening at: http://0.0.0.0:54780 (3)
+2015-04-02T20:06:52.762445+00:00 app[web.1]: [2015-04-02 20:06:52 +0000] [3] [INFO] Using worker: sync
+2015-04-02T20:06:52.788609+00:00 app[web.1]: ImportError: No module named flaviodjangoblog.wsgi
+2015-04-02T20:06:52.836390+00:00 app[web.1]: Traceback (most recent call last):
+2015-04-02T20:06:52.788617+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+2015-04-02T20:06:52.788612+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/arbiter.py", line 507, in spawn_worker
+2015-04-02T20:06:52.788616+00:00 app[web.1]:     self.wsgi = self.app.wsgi()
+2015-04-02T20:06:52.788615+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/workers/base.py", line 118, in init_process
+2015-04-02T20:06:52.789349+00:00 app[web.1]: [2015-04-02 20:06:52 +0000] [9] [INFO] Worker exiting (pid: 9)
+2015-04-02T20:06:52.788626+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/util.py", line 355, in import_app
+2015-04-02T20:06:52.788599+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+2015-04-02T20:06:52.788621+00:00 app[web.1]:     return self.load_wsgiapp()
+2015-04-02T20:06:52.780752+00:00 app[web.1]: [2015-04-02 20:06:52 +0000] [9] [INFO] Booting worker with pid: 9
+2015-04-02T20:06:52.788607+00:00 app[web.1]:     __import__(module)
+2015-04-02T20:06:52.788620+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+2015-04-02T20:06:52.837533+00:00 app[web.1]:     time.sleep(0.1 * random.random())
+2015-04-02T20:06:52.836710+00:00 app[web.1]:     WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+2015-04-02T20:06:52.836913+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/base.py", line 72, in run
+2015-04-02T20:06:52.837138+00:00 app[web.1]:     self.manage_workers()
+2015-04-02T20:06:52.836856+00:00 app[web.1]:     super(Application, self).run()
+2015-04-02T20:06:52.788623+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+2015-04-02T20:06:52.836562+00:00 app[web.1]:     sys.exit(run())
+2015-04-02T20:06:52.837680+00:00 app[web.1]:     self.reap_workers()
+2015-04-02T20:06:52.837583+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/arbiter.py", line 214, in handle_chld
+2015-04-02T20:06:52.836989+00:00 app[web.1]:     Arbiter(self).run()
+2015-04-02T20:06:52.788629+00:00 app[web.1]: ImportError: No module named flaviodjangoblog.wsgi
+2015-04-02T20:06:52.837033+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/arbiter.py", line 174, in run
+2015-04-02T20:06:52.837173+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/arbiter.py", line 477, in manage_workers
+2015-04-02T20:06:52.788619+00:00 app[web.1]:     self.callable = self.load()
+2015-04-02T20:06:52.836608+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/app/wsgiapp.py", line 74, in run
+2015-04-02T20:06:52.837376+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/arbiter.py", line 541, in spawn_workers
+2015-04-02T20:06:52.837320+00:00 app[web.1]:     self.spawn_workers()
+2015-04-02T20:06:52.837735+00:00 app[web.1]:   File "/app/.heroku/python/lib/python2.7/site-packages/gunicorn/arbiter.py", line 459, in reap_workers
+2015-04-02T20:06:52.838109+00:00 app[web.1]: gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+2015-04-02T20:06:52.837876+00:00 app[web.1]:     raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+2015-04-02T20:06:53.778068+00:00 heroku[web.1]: State changed from starting to crashed
+2015-04-02T20:06:53.761493+00:00 heroku[web.1]: Process exited with status 1
+2015-04-02T20:06:54.724172+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=1b48b65c-0a7c-4a77-8610-c6515151ce95 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:06:55.504431+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=12543d6d-e061-4edc-a8a2-5aef8bcc397f fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:06:57.739686+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=172fc302-0949-4ef1-8b8c-712b942863da fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:06:59.287490+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=flaviodjangoblog.herokuapp.com request_id=cf482f43-c714-4a82-a6be-85049631067f fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:06:58.464837+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=637875e4-9ad7-4f41-8e42-f9826104b8f1 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:07:00.086906+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=873483f0-ab4a-4006-8f59-70a1b586e0c6 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:07:03.341092+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/admin" host=flaviodjangoblog.herokuapp.com request_id=3e177d90-7aac-4323-af67-8db98e1129a4 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:07:04.036867+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=cbee1b62-187f-44f6-8a42-092fb7e75dd0 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:07:05.817688+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/admin" host=flaviodjangoblog.herokuapp.com request_id=3f5404b7-6190-4528-8e74-7f8f30156518 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:07:06.727713+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=848423ea-a2c0-4ecb-a1a7-41197d315f8c fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:07:07.687434+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/admin" host=flaviodjangoblog.herokuapp.com request_id=f9bc5e72-2df9-4ff1-9ca8-7a88e9802cd2 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
+2015-04-02T20:07:08.423763+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=flaviodjangoblog.herokuapp.com request_id=318267d3-ec9c-47b3-80a6-27c47576d824 fwd="191.181.148.75" dyno= connect= service= status=503 bytes=
