@@ -495,7 +495,11 @@
       <created>1428443489135</created>
       <updated>1428443489135</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Incluído o acesso aos posts&#10;">
+      <created>1428443511063</created>
+      <updated>1428443511063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
