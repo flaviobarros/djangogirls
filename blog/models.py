@@ -12,5 +12,10 @@ class Post(models.Model):
         self.published_date = timezone.now()
         self.save()
 
+    def get_absolute_url(self):
+        from django.core.urlresolvers import reverse
+        return reverse('blog.views.post_detail', args=[str(self.id)])
+
+
     def __str__(self):
         return self.title
